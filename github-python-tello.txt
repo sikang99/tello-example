@@ -1,0 +1,150 @@
+  hanyazou/TelloPy
+  DJI Tello drone controller python package
+  2020-07-02T15:20:16Z  Python  4872  1.00
+  https://github.com/hanyazou/TelloPy
+
+  dji-sdk/Tello-Python
+  This is a collection of python modules that interact with the Ryze Tello drone.
+  2020-07-03T09:08:08Z  Python  29081  1.00
+  https://github.com/dji-sdk/Tello-Python
+
+  microlinux/tello
+  A Python interface for the Ryze Tello drone.
+  2020-05-12T08:56:33Z  Python  4  1.00
+  https://github.com/microlinux/tello
+
+  Jabrils/TelloTV
+  My opensource code to my Tello AI Implimentation... no idea why I called it TelloTV
+  2020-06-26T01:01:00Z  Python  1710  1.00
+  https://github.com/Jabrils/TelloTV
+
+  damiafuentes/DJITelloPy
+  DJI Tello drone python interface using the official Tello SDK. Feel free to contribute!
+  2020-06-30T22:06:52Z  Python  127  1.00
+  https://github.com/damiafuentes/DJITelloPy
+
+  geaxgx/tello-openpose
+  no description
+  2020-07-04T09:35:30Z  Python  1146  1.00
+  https://github.com/geaxgx/tello-openpose
+
+  Ubotica/telloCV
+  PyImageSearch Ball Tracking
+  2020-06-26T20:48:43Z  Python  49191  1.00
+  https://github.com/Ubotica/telloCV
+
+  TelloSDK/Multi-Tello-Formation
+  A Sample Code that implements the formation function of multiple tellos
+  2020-07-02T11:17:01Z  Python  29060  1.00
+  https://github.com/TelloSDK/Multi-Tello-Formation
+
+  anqixu/tello_driver
+  ROS driver for DJI/Ryze Tello drones
+  2020-05-31T00:19:47Z  Python  54  1.00
+  https://github.com/anqixu/tello_driver
+
+  GalBrandwine/HalloPy
+  a hand controlled Tello
+  2020-06-30T08:58:02Z  Python  5578  1.00
+  https://github.com/GalBrandwine/HalloPy
+
+  Virodroid/easyTello
+  An easy to use library to support DJI Tello scripting in Python 3
+  2020-06-19T21:26:06Z  Python  28  1.00
+  https://github.com/Virodroid/easyTello
+
+  dbaldwin/DroneBlocks-TelloEDU-Python
+  Python scripts for TelloEDU to introduce drone swarming
+  2020-05-03T16:40:35Z  Python  4  1.00
+  https://github.com/dbaldwin/DroneBlocks-TelloEDU-Python
+
+  markwinap/TensorFlow-Tello-Object_Detection-
+  TensorFlow Object Detection For Controlling DJI Tello Drone
+  2020-06-26T20:49:01Z  Python  20425  1.00
+  https://github.com/markwinap/TensorFlow-Tello-Object_Detection-
+
+  murtazahassan/Tello-Object-Tracking
+  no description
+  2020-06-20T23:02:56Z  Python  126  1.00
+  https://github.com/murtazahassan/Tello-Object-Tracking
+
+  clydemcqueen/flock
+  ROS driver for DJI Tello drones
+  2020-05-07T01:44:45Z  Python  51  1.00
+  https://github.com/clydemcqueen/flock
+
+  dwalker-uk/TelloEduSwarmSearch
+  A Python library for interfacing with the Ryze Tello Edu, including swarm and search behaviours.
+  2020-03-17T05:59:26Z  Python  30  1.00
+  https://github.com/dwalker-uk/TelloEduSwarmSearch
+
+  kodamap/tellooo
+  no description
+  2020-06-01T00:53:11Z  Python  933  1.00
+  https://github.com/kodamap/tellooo
+
+  mcecchi/KivyTello
+  Kivy app to control your Ryze Tello
+  2020-06-01T02:20:10Z  Python  2070  1.00
+  https://github.com/mcecchi/KivyTello
+
+  rkassana/tello-rl-yolo
+  Tello drone object tracking using object detection (YOLO) and reinforcement learning (DDPG)
+  2020-07-03T13:04:19Z  Python  67651  1.00
+  https://github.com/rkassana/tello-rl-yolo
+
+  DevconX/Tello-Python
+  tello packets prototype
+  2019-02-28T23:36:05Z  Python  7572  1.00
+  https://github.com/DevconX/Tello-Python
+
+  dronefreak/dji-tello-collision-avoidance-pydnet
+  This repo provides a collision avoidance approach for the DJI-Tello using PyDNet.
+  2020-05-22T06:15:58Z  Python  7213  1.00
+  https://github.com/dronefreak/dji-tello-collision-avoidance-pydnet
+
+  houdinisparks/pose_recognition_tello
+  Control a dji tello drone with body postures processed by tf-openpose using a camera and aws ec2 g2.2xlarge gpu server.
+  2020-03-22T14:12:10Z  Python  21865  1.00
+  https://github.com/houdinisparks/pose_recognition_tello
+
+  anj-easyinspect/tello_drone
+  Simple keyboard controls for Tello drone
+  2020-03-17T06:05:36Z  Python  67  1.00
+  https://github.com/anj-easyinspect/tello_drone
+
+  geaxgx/tello-humanpose-openvino
+  Using human pose estimation to pilot a Tello drone. Relying on OpenVINO toolkit, runs on Intel CPU.
+  2020-06-13T02:17:17Z  Python  24114  1.00
+  https://github.com/geaxgx/tello-humanpose-openvino
+
+  Danny-Dasilva/Simple-TelloPy
+  DJI Tello drone controller python package
+  2020-01-25T20:37:54Z  Python  4870  1.00
+  https://github.com/Danny-Dasilva/Simple-TelloPy
+
+  plugowski/micropython-tello
+  no description
+  2019-06-11T17:39:26Z  Python  2  1.00
+  https://github.com/plugowski/micropython-tello
+
+  NatholBMX/Python-Tello-Control
+  Controlling the Tello drone with Python
+  2020-03-17T07:02:16Z  Python  72196  1.00
+  https://github.com/NatholBMX/Python-Tello-Control
+
+  dronefreak/dji-tello-target-tracking
+  Real-time target tracking for DJI-Tello using HSV color masking
+  2020-05-17T15:33:54Z  Python  1191  1.00
+  https://github.com/dronefreak/dji-tello-target-tracking
+
+  amymcgovern/pytello
+  Python interface for the Tello
+  2020-05-17T16:08:58Z  Python  631  1.00
+  https://github.com/amymcgovern/pytello
+
+  DaHuntr9/TelloDroneAPI
+  This is a personal project to connect to the Ryze Tello Drone that is shared with a group of FGCU Software Engineers: careyes17, tgayle, and G-Reg26. Project is currently incomplete and will be worked on progressively throughout the year.
+  2019-03-14T16:20:09Z  Python  48  1.00
+  https://github.com/DaHuntr9/TelloDroneAPI
+
