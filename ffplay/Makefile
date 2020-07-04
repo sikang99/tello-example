@@ -1,7 +1,7 @@
 #
-# Makefile for Tello Drone
+# Makefile for video streaming from Tello Drone
 #
-PROG=tello
+PROG=tello-ffplay
 
 all:
 	@echo "usage: make [build|run] for $(PROG)"
