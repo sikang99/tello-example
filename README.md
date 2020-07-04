@@ -1,5 +1,6 @@
 # tello-example
 DJI Tello Drone Test Examples
+- IP : 192.168.10.1
 - Port : 8890
 - WiFi : Tello-5C7939
 - S/N : OTQZH1BEU000JK
@@ -20,7 +21,7 @@ sudo python3 -m pip install netaddr --ignore-installed
 - [Ryze](https://www.ryzerobotics.com/)
     - [Tello](https://www.ryzerobotics.com/kr/tello/downloads)
     - [Tello EDU](https://www.ryzerobotics.com/kr/tello-edu)
-    
+
 
 ### Open Source
 - [SMerrony/tello](https://github.com/SMerrony/tello) - The tello Go (golang) package is an unofficial, easy-to-use, standalone API for the Ryze Tello® drone
@@ -33,6 +34,7 @@ sudo python3 -m pip install netaddr --ignore-installed
 - [SMerrony/telloterm](https://github.com/SMerrony/telloterm) - A functioning desktop testbed for flying the Ryze Tello drone via the Go tello package.
 - [SMerrony/tellodesk](https://github.com/SMerrony/tellodesk) - Unofficial desktop application for flying the Tello mini drone
 - [socketbind/drone-control](https://github.com/socketbind/drone-control) - Simple application for controlling DJI/Ryze Tello drones
+- [kebhr/scratch3-tello](https://github.com/kebhr/scratch3-tello) - Scratch 3.0 for Tello
 
 
 ### Working Diary
