@@ -5,6 +5,7 @@ DJI Tello Drone Test Examples
 - S/N : OTQZH1BEU000JK
 
 ### History
+- 군집비행 무작정 따라 해보기: [텔로 에듀 군집비행 방법](https://blog.naver.com/helsel/221500474621)
 
 
 ### Information
@@ -19,6 +20,7 @@ DJI Tello Drone Test Examples
 - [Ragnar-H/TelloGo](https://github.com/Ragnar-H/TelloGo) - Tello on the web via WebRTC
 - [hto/dji-tello](https://github.com/hto/dji-tello)
 - [muety/tello](https://github.com/muety/tello) - Keyboard interface to control a DJI Tello drone with your PC
+- [TelloSDK/Multi-Tello-Formation](https://github.com/TelloSDK/Multi-Tello-Formation) - A Sample Code that implements the formation function of multiple tellos
 
 
 ### Working Diary
