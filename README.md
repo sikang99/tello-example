@@ -1,6 +1,8 @@
 # tello-example
 DJI Tello Drone Test Examples
-
+- Port : 8890
+- WiFi : Tello-5C7939
+- S/N : OTQZH1BEU000JK
 
 ### History
 
@@ -20,7 +22,9 @@ DJI Tello Drone Test Examples
 
 
 ### Working Diary
+- 2020/07/04 : Test with webrtc using gobot
 - 2020/07/04 : Test with ffplay using gobot
-- 2020/07/04 : Buy a Tello Drone from Cupang
+- 2020/07/04 : Buy a Tello Drone from Cupang / PCDirect
+
 
 
