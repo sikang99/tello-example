@@ -1,13 +1,15 @@
 #
 # Makefile for Tello Drone
 #
+PROG=tello
+
 all:
-	@echo "usage: make [build|run]"
+	@echo "usage: make [build|run] for $(PROG)"
 
 build b:
-	go build -o tello
+	go build -o $(PROG)
 
 run r:
-	./tello
+	./$(PROG)
 
 
