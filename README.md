@@ -6,6 +6,9 @@ DJI Tello Drone Test Examples
 
 
 ### Information
+- [DJI](https://dji.com/): [Tello](https://www.ryzerobotics.com/kr/tello)
+- [DJI Developer](https://developer.dji.com/)
+- [DJI-SDK](https://github.com/dji-sdk)
 
 
 ### Open Source
