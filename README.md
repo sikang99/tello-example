@@ -21,20 +21,26 @@ sudo python3 -m pip install netaddr --ignore-installed
 - [Ryze](https://www.ryzerobotics.com/)
     - [Tello](https://www.ryzerobotics.com/kr/tello/downloads)
     - [Tello EDU](https://www.ryzerobotics.com/kr/tello-edu)
+- [TelloPilots](https://tellopilots.com/)
 
 
 ### Open Source
+- [dji-sdk/Tello-Python](https://github.com/dji-sdk/Tello-Python) - This is a collection of python modules that interact with the Ryze Tello drone.
 - [SMerrony/tello](https://github.com/SMerrony/tello) - The tello Go (golang) package is an unofficial, easy-to-use, standalone API for the Ryze Tello® drone
+- [SMerrony/telloterm](https://github.com/SMerrony/telloterm) - A functioning desktop testbed for flying the Ryze Tello drone via the Go tello package.
+- [SMerrony/tellodesk](https://github.com/SMerrony/tellodesk) - Unofficial desktop application for flying the Tello mini drone
 - [oliverpool/tello-webrtc-fpv](https://github.com/oliverpool/tello-webrtc-fpv) - Playing with go, gobot & pion
 - [Ragnar-H/TelloGo](https://github.com/Ragnar-H/TelloGo) - Tello on the web via WebRTC
 - [hto/dji-tello](https://github.com/hto/dji-tello)
 - [muety/tello](https://github.com/muety/tello) - Keyboard interface to control a DJI Tello drone with your PC
 - [TelloSDK/Multi-Tello-Formation](https://github.com/TelloSDK/Multi-Tello-Formation) - A Sample Code that implements the formation function of multiple tellos
 - [ekalaya/tellodrone-control](https://github.com/ekalaya/tellodrone-control) - Drone DJI Tello Controller using the Go programming language
-- [SMerrony/telloterm](https://github.com/SMerrony/telloterm) - A functioning desktop testbed for flying the Ryze Tello drone via the Go tello package.
-- [SMerrony/tellodesk](https://github.com/SMerrony/tellodesk) - Unofficial desktop application for flying the Tello mini drone
 - [socketbind/drone-control](https://github.com/socketbind/drone-control) - Simple application for controlling DJI/Ryze Tello drones
 - [kebhr/scratch3-tello](https://github.com/kebhr/scratch3-tello) - Scratch 3.0 for Tello
+- [jamesponwith/TelloDroneCv](https://github.com/jamesponwith/TelloDroneCv) - Autonomous DJI Tello drone control using OpenCV
+- [ekapilik/TelloFaceFollow](https://github.com/ekapilik/TelloFaceFollow) - School Project: Tello Drone with Face Following functionality
+- [bsdpunk/TelloGO](https://github.com/bsdpunk/TelloGO) - Tello Drone, go lang stuff
+
 
 
 ### Working Diary
