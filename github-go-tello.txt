@@ -1,0 +1,145 @@
+  SMerrony/tello
+  The tello Go (golang) package is an unofficial, easy-to-use, standalone API for the Ryze Tello® drone.
+  2020-07-02T21:21:50Z  Go  113  1.00
+  https://github.com/SMerrony/tello
+
+  SMerrony/telloterm
+  A functioning desktop testbed for flying the Ryze Tello drone via the Go tello package.
+  2020-05-08T09:53:52Z  Go  230  1.00
+  https://github.com/SMerrony/telloterm
+
+  SMerrony/tello-desktop
+  Functioning desktop testbed for flying the DJI Tello drone via Gobot
+  2019-04-16T14:01:43Z  Go  1487  1.00
+  https://github.com/SMerrony/tello-desktop
+
+  oliverpool/tello-webrtc-fpv
+  Playing with go, gobot & pion
+  2020-06-21T19:22:26Z  Go  5106  1.00
+  https://github.com/oliverpool/tello-webrtc-fpv
+
+  muety/tello
+  Keyboard interface to control a DJI Tello drone with your PC
+  2020-06-15T21:08:50Z  Go  6  1.00
+  https://github.com/muety/tello
+
+  cbwang2016/tello-control
+  DJI Tello Controller using keyboard, based on https://github.com/socketbind/drone-control
+  2019-10-11T17:15:05Z  Go  30283  1.00
+  https://github.com/cbwang2016/tello-control
+
+  socketbind/drone-control
+  Simple application for controlling DJI/Ryze Tello drones.
+  2020-03-24T01:43:18Z  Go  28  1.00
+  https://github.com/socketbind/drone-control
+
+  ekalaya/tellodrone-control
+  Drone DJI Tello Controller using the Go programming language
+  2019-01-21T07:36:33Z  Go  9613  1.00
+  https://github.com/ekalaya/tellodrone-control
+
+  cicidi/tello
+  Use PS4 controller control DJI Tello
+  2020-05-26T06:06:36Z  Go  9  1.00
+  https://github.com/cicidi/tello
+
+  philips-labs/medical-delivery-drone
+  Home Care - Medical delivery
+  2020-06-09T18:08:05Z  Go  10755  1.00
+  https://github.com/philips-labs/medical-delivery-drone
+
+  SMerrony/tellodesk
+  Unofficial desktop application for flying the Tello mini drone
+  2020-04-19T09:43:40Z  Go  3680  1.00
+  https://github.com/SMerrony/tellodesk
+
+  asticode/go-astitello
+  Golang implementation of DJI Tello SDK
+  2020-02-26T10:42:12Z  Go  95  1.00
+  https://github.com/asticode/go-astitello
+
+  imathno/Tello-Facial-Recognizer
+  no description
+  2018-06-02T05:31:58Z  Go  3008  1.00
+  https://github.com/imathno/Tello-Facial-Recognizer
+
+  ocalvet/tello-server
+  A repository for a tello server application to control the drone from afar
+  2018-08-14T23:49:02Z  Go  2  1.00
+  https://github.com/ocalvet/tello-server
+
+  eleniums/tello-engine
+  Engine created in Go to control a Tello drone using Gobot, with Lua as a scripting language.
+  2020-07-03T16:16:51Z  Go  483  1.00
+  https://github.com/eleniums/tello-engine
+
+  thomas-maurice/flight-control
+  Flight control software for my Tello drone
+  2020-06-26T08:18:21Z  Go  9  1.00
+  https://github.com/thomas-maurice/flight-control
+
+  kebhr/tello-wifi-configure
+  CLI tool for setting SSID and Password to Tello
+  2019-12-25T00:23:52Z  Go  3  1.00
+  https://github.com/kebhr/tello-wifi-configure
+
+  sudarshan-reddy/dogbot
+  Code for the DJI tello to follow your face
+  2020-06-24T06:30:26Z  Go  28131  1.00
+  https://github.com/sudarshan-reddy/dogbot
+
+  sacrebleu/tello
+  GoLang integration to DJI tello / gobot
+  2019-07-05T21:22:18Z  Go  16  1.00
+  https://github.com/sacrebleu/tello
+
+  numa08/tello
+  no description
+  2019-08-16T03:56:59Z  Go  6713  1.00
+  https://github.com/numa08/tello
+
+  cristianchaparroa/tello
+  This library provides multiple controllers to use easy the DJ Tello drone using Golang.
+  2019-12-29T16:36:39Z  Go  2991  1.00
+  https://github.com/cristianchaparroa/tello
+
+  KarolAltamirano/tello
+  Control DJI Tello Drone with Logitech Extreme 3D Pro Joystick
+  2020-03-03T21:00:21Z  Go  4034  1.00
+  https://github.com/KarolAltamirano/tello
+
+  bsdpunk/TelloGO
+  Tello Drone, go lang stuff
+  2020-05-07T21:23:50Z  Go  45100  1.00
+  https://github.com/bsdpunk/TelloGO
+
+  acim/tello
+  no description
+  2020-04-09T21:33:03Z  Go  7  1.00
+  https://github.com/acim/tello
+
+  Tomofiles/tello
+  no description
+  2019-06-02T13:54:34Z  Go  5  1.00
+  https://github.com/Tomofiles/tello
+
+  anthonygedeon/tello
+  no description
+  2020-07-01T00:39:35Z  Go  2  1.00
+  https://github.com/anthonygedeon/tello
+
+  ekapilik/TelloFaceFollow
+  School Project: Tello Drone with Face Following functionality
+  2018-11-22T20:43:29Z  Go  2  1.00
+  https://github.com/ekapilik/TelloFaceFollow
+
+  jamesponwith/TelloDroneCv
+  Autonomous DJI Tello drone control using OpenCV
+  2019-04-02T03:13:11Z  Go  4956  1.00
+  https://github.com/jamesponwith/TelloDroneCv
+
+  chorankates/gotello
+  console based Tello controller
+  2018-06-05T14:40:06Z  Go  17  1.00
+  https://github.com/chorankates/gotello
+
