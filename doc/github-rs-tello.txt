@@ -1,0 +1,12 @@
+
+  Alexander89/rust-tello
+  SDK for intel Tello drone
+  2020-03-29T15:13:36Z  Rust  449  1.00
+  https://github.com/Alexander89/rust-tello
+
+  matoushybl/corroded-drone
+  An implementation of DJI Tello SDK in rust.
+  2019-12-15T08:15:19Z  Rust  21  1.00
+  https://github.com/matoushybl/corroded-drone
+
+

@@ -48,6 +48,7 @@ sudo python3 -m pip install netaddr --ignore-installed
 - [econnie323/alexa-tello](https://github.com/econnie323/alexa-tello) - Alexa Voice Controlled Tello Drone
 - [kanekotic/tellojs](https://github.com/kanekotic/tellojs) - a package to be able to control and recieve information from the dji tello
 - [PingguSoft/pytello](https://bitbucket.org/PingguSoft/pytello) - python scripts for tello drone control
+- [matoushybl/corroded-drone](https://github.com/matoushybl/corroded-drone) - An implementation of DJI Tello SDK in rust
 
 
 
