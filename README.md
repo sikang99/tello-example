@@ -40,6 +40,14 @@ sudo python3 -m pip install netaddr --ignore-installed
 - [jamesponwith/TelloDroneCv](https://github.com/jamesponwith/TelloDroneCv) - Autonomous DJI Tello drone control using OpenCV
 - [ekapilik/TelloFaceFollow](https://github.com/ekapilik/TelloFaceFollow) - School Project: Tello Drone with Face Following functionality
 - [bsdpunk/TelloGO](https://github.com/bsdpunk/TelloGO) - Tello Drone, go lang stuff
+- [TensorFlow-Tello-Object_Detection-](https://github.com/markwinap/TensorFlow-Tello-Object_Detection-) - TensorFlow Object Detection For Controlling DJI Tello Drone
+- [miya0001/tello-example](https://github.com/miya0001/tello-example) - Tello Swarm
+- [miya0001/tello-api](https://github.com/miya0001/tello-api) - Webhook API for the Tello that allows you to control with your voice via Dialogflow.
+- [kebhr/scratch3-tello](https://github.com/kebhr/scratch3-tello) - Scratch 3.0 for Tello
+- [Kragrathea/TelloLib](https://github.com/Kragrathea/TelloLib) - Android, PC
+- [econnie323/alexa-tello](https://github.com/econnie323/alexa-tello) - Alexa Voice Controlled Tello Drone
+- [kanekotic/tellojs](https://github.com/kanekotic/tellojs) - a package to be able to control and recieve information from the dji tello
+- [PingguSoft/pytello](https://bitbucket.org/PingguSoft/pytello) - python scripts for tello drone control
 
 
 
