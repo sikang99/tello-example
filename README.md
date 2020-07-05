@@ -29,8 +29,8 @@ sudo python3 -m pip install netaddr --ignore-installed
 - [SMerrony/tello](https://github.com/SMerrony/tello) - The tello Go (golang) package is an unofficial, easy-to-use, standalone API for the Ryze Tello® drone
 - [SMerrony/telloterm](https://github.com/SMerrony/telloterm) - A functioning desktop testbed for flying the Ryze Tello drone via the Go tello package.
 - [SMerrony/tellodesk](https://github.com/SMerrony/tellodesk) - Unofficial desktop application for flying the Tello mini drone
-- [oliverpool/tello-webrtc-fpv](https://github.com/oliverpool/tello-webrtc-fpv) - Playing with go, gobot & pion
-- [Ragnar-H/TelloGo](https://github.com/Ragnar-H/TelloGo) - Tello on the web via WebRTC
+- [oliverpool/tello-webrtc-fpv](https://github.com/oliverpool/tello-webrtc-fpv) - Playing with go, gobot & **Pion WebRTC**
+- [Ragnar-H/TelloGo](https://github.com/Ragnar-H/TelloGo) - Tello on the web via **WebRTC**
 - [hto/dji-tello](https://github.com/hto/dji-tello)
 - [muety/tello](https://github.com/muety/tello) - Keyboard interface to control a DJI Tello drone with your PC
 - [TelloSDK/Multi-Tello-Formation](https://github.com/TelloSDK/Multi-Tello-Formation) - A Sample Code that implements the formation function of multiple tellos
@@ -38,6 +38,7 @@ sudo python3 -m pip install netaddr --ignore-installed
 - [socketbind/drone-control](https://github.com/socketbind/drone-control) - Simple application for controlling DJI/Ryze Tello drones
 - [kebhr/scratch3-tello](https://github.com/kebhr/scratch3-tello) - Scratch 3.0 for Tello
 - [jamesponwith/TelloDroneCv](https://github.com/jamesponwith/TelloDroneCv) - Autonomous DJI Tello drone control using OpenCV
+- [dbaldwin/DroneBlocks-Tello-Camera-With-Python-OpenCV](https://github.com/dbaldwin/DroneBlocks-Tello-Camera-With-Python-OpenCV) - Take photos and record videos with Tello's camera using a browser-based app and DroneBlocks
 - [ekapilik/TelloFaceFollow](https://github.com/ekapilik/TelloFaceFollow) - School Project: Tello Drone with Face Following functionality
 - [bsdpunk/TelloGO](https://github.com/bsdpunk/TelloGO) - Tello Drone, go lang stuff
 - [TensorFlow-Tello-Object_Detection-](https://github.com/markwinap/TensorFlow-Tello-Object_Detection-) - TensorFlow Object Detection For Controlling DJI Tello Drone
@@ -49,6 +50,13 @@ sudo python3 -m pip install netaddr --ignore-installed
 - [kanekotic/tellojs](https://github.com/kanekotic/tellojs) - a package to be able to control and recieve information from the dji tello
 - [PingguSoft/pytello](https://bitbucket.org/PingguSoft/pytello) - python scripts for tello drone control
 - [matoushybl/corroded-drone](https://github.com/matoushybl/corroded-drone) - An implementation of DJI Tello SDK in rust
+- [akshayvernekar/telloArduino](https://github.com/akshayvernekar/telloArduino) - Open source arudino library for controlling tello through ESP32
+- [marklauter/TelloAPI-SDK-2.0](https://github.com/marklauter/TelloAPI-SDK-2.0) - Flight Controller for Ryze/DJI Tello Drone in C#
+- [rkassana/tello-rl-yolo](https://github.com/rkassana/tello-rl-yolo) - About
+Tello drone object tracking using object detection (YOLO) and reinforcement learning (DDPG)
+- [clydemcqueen/flock2](https://github.com/clydemcqueen/flock2) - ROS2 swarm controller for DJI Tello drones
+
+
 
 
 
